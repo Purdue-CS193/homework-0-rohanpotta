@@ -4,28 +4,11 @@ You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# Rohan Potta's First CS 193 HW
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Rohan Potta's First CS193 Homework
-## Header 2
-### Header 3
-
-- I enjoy the comfortable Physics classroom for CS193
-- I get to meet new CS majors during CS193
-- I get to take a class that isn't that hard but is still useful for CS180
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+- I enjoy the Physics classroom of CS 193 lectures
+- I enjoy coming back to campus in the evening
+- I enjoy meeting new CS/DS/AI students
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
